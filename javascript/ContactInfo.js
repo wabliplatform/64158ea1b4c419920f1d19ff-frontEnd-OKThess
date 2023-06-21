@@ -1,8 +1,8 @@
-let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';document.getElementById('iewl1').onclick = (event) => {
+let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';document.getElementById('igv85r').onclick = (event) => {
     event.preventDefault();
-    {   location.href= '/Home' ;}};document.getElementById('i3cla').onclick = (event) => {
+    {   location.href= '/' ;}};document.getElementById('i3cla').onclick = (event) => {
     event.preventDefault();
-    {   location.href= '/Home' ;}};document.getElementById('i05gbz').onclick = (event) => {
+    {   location.href= '/' ;}};document.getElementById('i05gbz').onclick = (event) => {
     event.preventDefault();
     { window.document.location = '#irzdth';}};document.getElementById('i2ayqq').onclick = (event) => {
     event.preventDefault();
