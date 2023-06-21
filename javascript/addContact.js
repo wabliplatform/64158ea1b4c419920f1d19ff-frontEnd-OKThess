@@ -1,4 +1,4 @@
-let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';let contact = new TempApi.Contact();document.getElementById('icnm3').onclick = (event) => {
+let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';let contact = new TempApi.Contact();document.getElementById('iewl1').onclick = (event) => {
     event.preventDefault();
     {   location.href= '/Home' ;}};document.getElementById('io2lci').onclick = (event) => {
     event.preventDefault();
