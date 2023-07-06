@@ -1,12 +1,4 @@
-let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';document.getElementById('ihb6ig').onclick = (event) => {
-    event.preventDefault();
-    {   location.href= '/home' ;}};document.getElementById('i0yi2d').onclick = (event) => {
-    event.preventDefault();
-    {   location.href= '/funders' ;}};document.getElementById('iuepqo').onclick = (event) => {
-    event.preventDefault();
-    {   location.href= '/accelerators' ;}};document.getElementById('iu3opc').onclick = (event) => {
-    event.preventDefault();
-    {   location.href= '/developers' ;}};document.getElementById('im4al').onclick = (event) => {
+let apiContactApi = new TempApi.ContactApi();import TempApi from '../src/index';document.getElementById('im4al').onclick = (event) => {
     event.preventDefault();
     {   location.href= '/addContact' ;}};document.getElementById('inqmpg').onclick = (event) => {
     event.preventDefault();
